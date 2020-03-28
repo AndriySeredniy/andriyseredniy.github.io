@@ -1,0 +1,85 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+img{
+	border-radius: 50%;
+}
+.Icon{
+	
+	text-align: center;
+}
+body{
+	background: url(1.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+p{
+	font-size: 25px;
+	color: black;
+
+}
+h2{
+	color: #3AA587	;
+}
+.NavProf{
+  background:url(2index.jfif);
+ width: 100%;
+ margin-top: 100px;
+ height: 100%;
+ height: 164px;
+  text-align: center;
+}
+.AvtoBiog{
+	top: 150px;
+  background:url(2index.jfif);
+ width: 100%;
+
+ height: 100%;
+ height: 164px;
+ text-align: center;
+}
+.Zagolovok{
+	color: #3AA587;
+	width: 200px;
+	height: 100px;
+	text-align: right;
+	 transform: rotate(-10deg);
+
+}
+ h1{
+ 	font-family:Stencil Std;
+ 	color: #3AA587;
+ 	text-align: center;
+ }
+}
+button{
+	background-color: yellow;
+}
+.three ul {
+  padding: 0;
+  background: yellow;
+}
+.three li {
+  display: inline-block;
+}
+.three a {
+  padding: 20px;
+  display: block;
+  color: yellow;
+  border-right: 1px solid darkblue;
+  background: black;
+}
+.three a:hover {background: #3AA587 }
+.navbar{
+	background-attachment: flex;
+}
+.Tel{
+	background-color: #3AA587;
+	text-align: center; 
+	margin:center;
+	width:150px;
+	height: 50px;
+
+}
